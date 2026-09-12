@@ -123,6 +123,11 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
   <img src="https://streak-stats.demolab.com?user=Pavancleo&theme=radical&hide_border=true" width="60%" />
 </p>
 
+<!-- Snake contribution animation: requires the snake.yml GitHub Action (see setup steps) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pavancleo/Pavancleo/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
 ---
 
 ### 🔗 Connect With Me
