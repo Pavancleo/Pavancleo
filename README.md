@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://pavan-portfolio-main.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/pavan-k-4bb2ba308/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pavan-k-4bb2ba308/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a>
   <a href="mailto:pavan2006007@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/pavxn.__.cleo/"><img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -115,8 +115,8 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavancleo&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavancleo&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavancleo&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavancleo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavan-k-4bb2ba308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pavan-k-4bb2ba308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a>
   <a href="https://www.instagram.com/pavxn.__.cleo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:pavan2006007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pavan-portfolio-main.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
