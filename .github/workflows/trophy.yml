@@ -23,7 +23,7 @@ jobs:
           username: Pavancleo
           file: trophy.svg
           theme: radical
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push trophy.svg
         run: |
