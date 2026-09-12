@@ -33,26 +33,8 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 
 ### 🛠️ Tech Stack
 
-**Design**
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat-square&logo=canva&logoColor=white" />
-</p>
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,py,ts,js,react,html,css,git,github,vercel,linux&theme=dark" />
 </p>
 
 **AI / ML / NLP**
@@ -62,15 +44,17 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<!-- [UPDATE: skillicons.dev supports 100+ icons — see https://skillicons.dev for the full list and codes to add/remove] -->
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pavancleo/Pavancleo/main/trophy.svg" />
 </p>
 
-<!-- [UPDATE: add/remove badges to match your real stack] -->
+<!-- Self-hosted via the trophy.yml GitHub Action — regenerates daily, no third-party server dependency. -->
 
 ---
 
@@ -114,6 +98,10 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavancleo&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavancleo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pavancleo&theme=radical&hide_border=true" width="60%" />
@@ -136,5 +124,9 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 </p>
 
 <p align="center"><i>Thanks for stopping by — always up for a chat about design, AI, or building something new! 🚀</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pavancleo&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
