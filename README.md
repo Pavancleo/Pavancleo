@@ -114,10 +114,6 @@ I'm a **UI/UX Developer** who designs interfaces and then builds them — I don'
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavancleo&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavancleo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pavancleo&theme=radical&hide_border=true" width="60%" />
